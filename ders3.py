@@ -16,7 +16,7 @@ liste2 = list()
 *** UNUTMA! ***
 str(yazı değişkeni) aslında bir KARAKTER LİSTESİDİR.
 yani 'a' karakteri ile 'b' karakterini aynı listede gösterince "ab" elde ediyoruz.
-Bu yüzden len() fonksiyonunu str(yazı değişkenleri)'de de kullanabiliyoruz.
+Bu yüzden örnek olarak len() fonksiyonunu str(yazı değişkenleri)'de de kullanabiliyoruz.
 """
 
 # Listeden endeks numarasına göre değer alma.
